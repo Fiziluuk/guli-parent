@@ -9,7 +9,7 @@
     <modules>
         <module>service</module>
     </modules>
-    <name>ideaProject</name>
+    <name>guli-parent</name>
     <description>ideaProject</description>
 
 <!--    <properties>-->
