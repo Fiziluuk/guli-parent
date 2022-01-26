@@ -9,14 +9,6 @@ import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 
-/**
- * <p>
- * 讲师
- * </p>
- *
- * @author atguigu
- * @since 2022-01-25
- */
 @Data
 @EqualsAndHashCode(callSuper = false)
 @ApiModel(value="EduTeacher对象", description="讲师")
